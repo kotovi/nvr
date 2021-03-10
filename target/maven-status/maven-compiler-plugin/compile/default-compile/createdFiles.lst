@@ -1,0 +1,5 @@
+DBConnectionManager.class
+recorderThreadListener.class
+newNvr.class
+recorderThread.class
+sqlConnectionPool.class
